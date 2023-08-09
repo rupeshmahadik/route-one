@@ -25,8 +25,6 @@ function App() {
 export default App;
 
 
-
-// https://passportindia.gov.in/AppOnlineProject/online/gepOnlineApp
 // https://www.youtube.com/watch?v=Dtm9fOnzqWU
 
 // https://www.youtube.com/watch?v=nDGA3km5He4 - RR - 35.00 
